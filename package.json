@@ -1,0 +1,11 @@
+{
+  "name": "Webku",
+  "version": "1.0.0",
+  "main": "App.py",
+  "repository": "https://github.com/StephenJP14/Webku.git",
+  "author": "StephenJP14 <stephen.j.pratama@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^33.5.5"
+  }
+}
